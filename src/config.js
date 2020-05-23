@@ -1,3 +1,7 @@
+import dotenv from 'dotenv';
+
+dotenv.config();
+
 export default {
     zoomLevel: 16,
     latitudeForFocusingMap: 51.4934,
